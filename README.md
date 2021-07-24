@@ -7,7 +7,7 @@ purchase and sell
 
 # Team Members: 
 <ol>
-    <li><a href="">Akshat Dhiman</a> 
+    <li><a href="https://github.com/Akshat120">Akshat Dhiman</a> 
     <li><a href="">Pushpraj Bhuriya</a> 
     <li><a href="">Abhinav</a> 
 </ol>  
