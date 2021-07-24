@@ -9,7 +9,7 @@ purchase and sell
 <ol>
     <li><a href="https://github.com/Akshat120">Akshat Dhiman</a> 
     <li><a href="https://github.com/pushpraj7">Pushpraj Bhuriya</a> 
-    <li><a href="">Abhinav</a> 
-</ol>  
+    <li><a href="https://github.com/go-abhi007">Abhinav</a>
+</ol>
 
 
