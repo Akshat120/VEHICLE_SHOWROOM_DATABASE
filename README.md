@@ -6,5 +6,10 @@ purchase and sell
 </h3>
 
 # Team Members: 
+<ol>
+    <li><a href="">Akshat Dhiman</a> 
+    <li><a href="">Pushpraj Bhuriya</a> 
+    <li><a href="">Abhinav</a> 
+</ol>  
 
 
